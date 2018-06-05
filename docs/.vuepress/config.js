@@ -13,7 +13,8 @@ module.exports = {
     sidebar: {
     	'/blog/': [
     		'',
-    		'git'
+    		'git',
+        '如何判断用户浏览器以及一些前端常用的正则表单验证'
     	]
     }
   }
